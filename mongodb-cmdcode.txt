@@ -1,0 +1,19 @@
+link database to mongo
+C:\Program Files\mongodb\bin\mongod.exe --dpath "C:\data\db"
+
+open database:
+C:\Program Files\mongodb\bin\mongo.exe
+
+db.help() to access help menu.
+
+db.stats() to check statistics of database.
+
+use NASAProject-JiahaoChen_XinranZhang
+to switch to correct database.
+
+db to check which database im in.
+
+db.dropDatabase()
+to drop current database.
+
+
