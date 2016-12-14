@@ -13,3 +13,6 @@ days with precipitation
 wind speed
 wind direction
 sunshine duration
+
+
+The Final Version of the Project is in funwithsolar_final.zip
